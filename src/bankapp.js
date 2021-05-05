@@ -1,4 +1,4 @@
-import React, { Component, Componet } from 'react';
+import React, {Component} from 'react';
 import { MDBDataTable } from 'mdbreact';
 import axios from 'axios';
 
